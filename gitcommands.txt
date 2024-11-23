@@ -1,0 +1,10 @@
+            remote repository
+- git clone git@github.com:USER-NAME/REPOSITOY-NAME.git
+- git push (origin main)
+            workflow
+- git add . (or, instead . FILE-NAME)
+- git commit -m "A message describing what  
+  we have done to make this snapshot different.
+            chacking status or log history
+- git status
+- git log
